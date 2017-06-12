@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Waterdrop Vendor</string>
+
+    <!-- Login -->
+    <string name="welcome">Welcome</string>
+    <string name="terms">Terms and conditions</string>
+    <string name="btn_proceed">Proceed</string>
+
+    <!-- Vendor Key -->
+    <string name="vp_title">Choose any one supplier</string>
+    <string name="vendor_key_label">Enter your key</string>
+    <string name="btn_verify">Verify</string>
+
+    <string name="vendor_mobile_label">Enter mobile number</string>
+    <string name="btn_continue">Continue</string>
+
+
+    <!-- Vendor from contact -->
+    <string name="current_vendor_contact_i">You can choose your existing vendor as your default vendor. Enter the number in the below given field or you can pick from you contact by clicking the Pick from contacts</string>
+    <string name="mobile_number_hint">Enter your vendor number</string>
+    <string name="pick_contact">Pick from contact</string>
+
+    <!-- Settings -->
+    <string name="settings_label">Settings</string>
+
+    <!-- Customers -->
+    <string name="customers_title">Customers</string>
+
+    <!-- Customers Summary -->
+    <string name="customer_summary_label">Customer</string>
+    <string name="customer_detail_label">Customer</string>
+    <string name="can_count_label">%s - <i>%s</i></string>
+    <string name="update">Update</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+
+
+    <string name="info_refresh">Pull to refresh</string>
+    <string name="info_swipe">Swipe to close order</string>
+    <string name="drawer_item_orders">Orders</string>
+    <string name="drawer_item_customers">Customers</string>
+    <string name="drawer_item_settings">Settings</string>
+
+</resources>
